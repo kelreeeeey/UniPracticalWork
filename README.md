@@ -7,12 +7,11 @@ Data that i used for my project is predicted fault that you can find [Here](http
 Fault Prediction using [FaultNet](https://github.com/douyimin/FaultNet)
 
 # Results
-Predicted Data Seismic Data: <div align=center><img src="https://github.com/kelreeeeey/UniPracticalWork/blob/main/Kerry%20Inline%2014.png" width="805" height="517" alt="Results"/><br/></div>
+Predicted Fault
+![Kerry Inline 14](https://user-images.githubusercontent.com/88223451/221438665-43dc9ea4-7beb-49f9-9e7f-d00a210902cc.png)
+Labeled Fault using FatBox
+![Kerry Inline 14 - Labeled Predicted Fault](https://user-images.githubusercontent.com/88223451/221438681-04281299-51a3-49f2-b3ed-ca92fdfc0f0e.png)
 
-Binerized Predicted Fault: https://github.com/kelreeeeey/UniPracticalWork/blob/main/Kerry%20Inline%2014%20-%20Binerized.png
-Skeletonized Predicted Fault: https://github.com/kelreeeeey/UniPracticalWork/blob/main/Kerry%20Inline%2014%20-%20Skeletonized.png
-Connected Components/Fault: https://github.com/kelreeeeey/UniPracticalWork/blob/main/Kerry%20Inline%2014%20-%20Connected%20Components.png
-Labeled Fault: https://github.com/kelreeeeey/UniPracticalWork/blob/main/Kerry%20Inline%2014%20-%20Labeled%20Predicted%20Fault.png
 
 
 ## Fault analysis toolbox - tutorials
